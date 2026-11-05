@@ -1,0 +1,1 @@
+import{t as e}from"./crm-Dyygt8WH.js";import{r as t}from"./preload-helper-DP8Cn2wX.js";var n=t(),r=()=>(0,n.jsx)(e,{initialView:`Import appointments`});export{r as component};
